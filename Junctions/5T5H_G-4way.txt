@@ -1,0 +1,2 @@
+Total 4-way junctions: 1
+Junction1:  (loop9) 13 - 16 , 34 - 35 , 90 - 92 , 101 - 104 , 
