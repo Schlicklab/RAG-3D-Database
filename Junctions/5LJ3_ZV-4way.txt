@@ -1,0 +1,2 @@
+Total 4-way junctions: 1
+Junction1:  (loop15) 27 - 46 , 80 - 98 , 169 - 172 , 191 - 221 , 
