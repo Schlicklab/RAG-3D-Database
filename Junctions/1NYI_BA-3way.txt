@@ -1,0 +1,2 @@
+Total 3-way junctions: 1
+Junction1:  (loop4) 5 - 13 , 19 - 24 , 33 - 36 , 
