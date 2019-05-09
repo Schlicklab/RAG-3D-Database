@@ -1,0 +1,5 @@
+Total 3-way junctions: 4
+Junction1:  (loop25) 29 - 39 , 335 - 436 , 481 - 487 , 
+Junction2:  (loop26) 522 - 549 , 563 - 596 , 681 - 691 , 
+Junction3:  (loop27) 607 - 613 , 649 - 661 , 668 - 671 , 
+Junction4:  (loop28) 761 - 766 , 793 - 798 , 805 - 812 , 

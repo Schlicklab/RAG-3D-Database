@@ -1,0 +1,2 @@
+Total 4-way junctions: 1
+Junction1:  (loop28) 1881 - 1957 , 2080 - 2199 , 2239 - 2288 , 2300 - 2347 , 
