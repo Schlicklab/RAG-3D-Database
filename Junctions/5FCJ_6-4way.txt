@@ -1,0 +1,2 @@
+Total 4-way junctions: 1
+Junction1:  (loop96) 1163 - 1166 , 1463 - 1469 , 1528 - 1540 , 1561 - 1572 , 
