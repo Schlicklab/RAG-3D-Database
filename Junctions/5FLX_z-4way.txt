@@ -1,6 +1,3 @@
-Total 4-way junctions: 5
+Total 4-way junctions: 2
 Junction1:  (loop18) 90 - 91 , 198 - 199 , 210 - 211 , 222 - 223 , 
 Junction2:  (loop19) 110 - 113 , 128 - 129 , 135 - 137 , 146 - 147 , 
-Junction3:  (loop20) 90 - 91 , 198 - 199 , 210 - 211 , 222 - 223 , 
-Junction4:  (loop21) 90 - 91 , 198 - 199 , 210 - 211 , 222 - 223 , 
-Junction5:  (loop22) 90 - 91 , 198 - 199 , 210 - 211 , 222 - 223 , 
